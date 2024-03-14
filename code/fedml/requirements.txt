@@ -1,0 +1,6 @@
+flwr
+tensorflow
+keras
+pandas
+numpy
+scikit-learn
